@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-11T01:45:58" hostname="MBIRA" time="0.022">
+  <properties/>
+  <testcase name="testZeroRecords" classname="MainKtTest" time="0.022"/>
+  <system-out><![CDATA[Scanning test-empty.csv for 2500
+0 Records found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
